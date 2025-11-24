@@ -1,1 +1,0 @@
-# insurance-automation-framework
