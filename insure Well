@@ -578,8 +578,3 @@ public class ApproveRejectClaimTest extends BaseTest {
 - Create repo on GitHub and push
 - Update locators, URLs, and assertions to match the real InsureWell application
 
-If you want, I can now:
-1. Generate a ZIP of this repo for download, or
-2. Create the next repository (`insurance-api-testing`) files now.
-
-Which do you want next? (Reply: `zip` or `repo2`)
